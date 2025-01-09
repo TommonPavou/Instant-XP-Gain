@@ -41,6 +41,8 @@ This mod is licensed under the [GNU GPL v3.0](./LICENSE).
 Huge thanks to all future supporters and bug reporters!
 Go check my social links:
 
-X - https://x.com/TommonPavou
-Modrinth - https://modrinth.com/user/TommonPavou
-Instagram - https://www.instagram.com/tommonpavou_official/
+https://x.com/TommonPavou (X)
+
+https://modrinth.com/user/TommonPavou (Modrinth)
+
+https://www.instagram.com/tommonpavou_official/ (Instagram)
