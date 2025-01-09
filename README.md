@@ -22,7 +22,7 @@ This is my first mod, so bugs are expected.
 Please note that full compatibility with mods that introduce new methods of obtaining XP or alter the behavior of existing XP mechanics may not be guaranteed.
 
 
-##How to install:
+## How to install:
 1. Download the latest `.jar` file from the [Releases](https://github.com/TommonPavou/Instant-XP-Gain/releases) section.
 2. Place the file into the `mods/` folder of your Minecraft server.
 3. Start the server to load the mod.
