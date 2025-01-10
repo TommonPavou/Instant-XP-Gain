@@ -1,6 +1,4 @@
 ## Description:
-Instant XP Gain
-
 Instant XP Gain is a server-side mod designed for both performance and convenience. It removes the generation of XP orbs during gameplay and directly grants XP to players, eliminating the need to collect orbs manually. By bypassing XP orb creation, this mod not only optimizes server performance by reducing entity load but also simplifies gameplay by removing the hassle of retrieving scattered XP.
 
 Key features:
