@@ -3,7 +3,7 @@ Instant XP Gain is a server-side mod designed for both performance and convenien
 
 Key features:
 
-  - Instantly grants XP from villager trades, smelting, cooking, killing mobs, players and block breaking.
+  - Instantly grants XP to the player from every source of the game!
 
   - Helps optimize server performance and prevents abuse of XP-based lag machines.
 
@@ -13,9 +13,7 @@ Key features:
 
 Whether you're running a small private server or a large multiplayer world, Instant XP Gain helps streamline gameplay while maintaining balance, fairness, while improving performance.
 
-Development plans: Planned updates include the prevention of XP generation from sources like grindstones, fishing, breeding animals and XP bottles, further streamlining gameplay and reducing server strain to make Instant XP Gain even more versatile for optimized server performance. Once a richer, feature-complete, and bug-free version of the mod is achieved, it will also be released for additional Minecraft versions.
-
-This is my first mod, so bugs are expected.
+This is my first mod, so bugs are expected. Once a bug-free version of the mod is achieved, it will also be released for additional Minecraft versions.
 
 Please note that full compatibility with mods that introduce new methods of obtaining XP or alter the behavior of existing XP mechanics may not be guaranteed.
 
