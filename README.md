@@ -13,9 +13,11 @@ Key features:
 
 Whether you're running a small private server or a large multiplayer world, Instant XP Gain helps streamline gameplay while maintaining balance, fairness, while improving performance.
 
-This is my first mod, so bugs are expected. Once a bug-free version of the mod is achieved, it will also be released for additional Minecraft versions.
+This mod has full compatibility with most mods that introduce new methods of obtaining XP or alter existing ones.
 
-Please note that full compatibility with mods that introduce new methods of obtaining XP or alter the behavior of existing XP mechanics may not be guaranteed.
+I will soon release this mod for additional Minecraft versions. To stay up to date for future updates and releases, consider following this mod!
+
+Feel free to include this mod in your modpack!
 
 
 ## How to install:
