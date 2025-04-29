@@ -15,7 +15,7 @@ Whether you're running a small private server or a large multiplayer world, Inst
 
 This mod has full compatibility with most mods that introduce new methods of obtaining XP or alter existing ones.
 
-I will soon release this mod for additional Minecraft versions. To stay up to date for future updates and releases, consider following this mod!
+I will soon release this mod for additional Minecraft versions and make it client-side as well. To stay up to date for future updates and releases, consider following this mod!
 
 Feel free to include this mod in your modpack!
 
