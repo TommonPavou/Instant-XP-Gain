@@ -13,7 +13,7 @@ Key features:
 
   - Does not remove the XP drop from defeating the Ender Dragon. Collecting this XP is part of the challenge, and distributing it equally ensures fairness in multiplayer environments.
 
-Whether you're playing in a singleplayer world or online with friends, Instant XP Gain helps streamline gameplay while maintaining balance, fairness, and improving performance.
+Whether you're playing in a singleplayer world or managing your server, Instant XP Gain helps streamline gameplay while maintaining balance, fairness, and improving performance.
 
 This mod has full compatibility with most mods that introduce new methods of obtaining XP or alter existing ones.
 
