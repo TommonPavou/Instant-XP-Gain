@@ -1,17 +1,19 @@
 ## Description:
-Instant XP Gain is a server-side mod designed for both performance and convenience. It removes the generation of XP orbs during gameplay and directly grants XP to players, eliminating the need to collect orbs manually. By bypassing XP orb creation, this mod not only optimizes server performance by reducing entity load but also simplifies gameplay by removing the hassle of retrieving scattered XP.
+Instant XP Gain is a mod designed for both performance and convenience. It removes the generation of XP orbs during gameplay and directly grants XP to players, eliminating the need to collect orbs manually. By bypassing XP orb creation, this mod not only optimizes server performance by reducing entity load but also simplifies gameplay by removing the hassle of retrieving scattered XP.
 
 Key features:
 
   - Instantly grants XP to the player from every source of the game!
 
-  - Helps optimize server performance and prevents abuse of XP-based lag machines.
+  - Helps optimize server and client performance.
+
+  - It prevents the abuse of XP-based lag machines.
 
   - Fully compatible with Mending and other vanilla mechanics that depend on XP.
 
   - Does not remove the XP drop from defeating the Ender Dragon. Collecting this XP is part of the challenge, and distributing it equally ensures fairness in multiplayer environments.
 
-Whether you're running a small private server or a large multiplayer world, Instant XP Gain helps streamline gameplay while maintaining balance, fairness, while improving performance.
+Whether you're playing in a singleplayer world or online with friends, Instant XP Gain helps streamline gameplay while maintaining balance, fairness, and improving performance.
 
 This mod has full compatibility with most mods that introduce new methods of obtaining XP or alter existing ones.
 
