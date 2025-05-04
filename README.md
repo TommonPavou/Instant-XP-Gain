@@ -9,7 +9,7 @@ Key features:
 
   - It prevents the abuse of XP-based lag machines.
 
-  - Fully compatible with Mending and other vanilla mechanics that depend on XP.
+  - Fully compatible with vanilla mechanics that depend on XP.
 
   - Does not remove the XP drop from defeating the Ender Dragon. Collecting this XP is part of the challenge, and distributing it equally ensures fairness in multiplayer environments.
 
