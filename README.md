@@ -24,7 +24,7 @@ Feel free to include this mod in your modpack!
 
 ## How to install:
 1. Download the latest `.jar` file from the [Releases](https://github.com/TommonPavou/Instant-XP-Gain/releases) section.
-2. Place the file into the `mods/` folder of your Minecraft server.
+2. Place the file into the `mods/` folder of your Minecraft server or client.
 3. Start the server to load the mod.
 
 
