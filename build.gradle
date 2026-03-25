@@ -22,7 +22,7 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"instant-xp-gain" {
+		"template-mod" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}
