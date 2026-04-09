@@ -3,7 +3,7 @@ Instant XP Gain is a mod designed for both performance and convenience. It remov
 
 Why is this mod larger in size than similar ones?
 
-This mod is larger because it considers every single game mechanic as a method responsible for XP generation, making it far more optimized than similar alternatives that rely on simple tick updates or a single centralized method. This approach ensures better performance, scalability, and compatibility across different gameplay scenarios.
+This mod is larger because it considers every single game mechanic responsible for XP generation, making it far more optimized than similar alternatives that rely on simple tick updates or a single centralized method.
 
 Key features:
 
