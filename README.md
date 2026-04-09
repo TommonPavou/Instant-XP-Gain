@@ -1,6 +1,9 @@
 ## Description:
 Instant XP Gain is a mod designed for both performance and convenience. It removes the generation of XP orbs during gameplay and directly grants XP to players, eliminating the need to collect orbs manually. By bypassing XP orb creation, this mod not only optimizes game performance by reducing entity load but also simplifies gameplay by removing the hassle of retrieving scattered XP.
 
+Why is this mod larger in size than similar ones?
+This mod is larger because it considers every single game mechanic as a method responsible for XP generation, making it far more optimized than similar alternatives that rely on simple tick updates or a single centralized method. This approach ensures better performance, scalability, and compatibility across different gameplay scenarios.
+
 Key features:
 
   - Instantly grants XP to the player from every source of the game!
