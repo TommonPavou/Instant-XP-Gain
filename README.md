@@ -1,9 +1,9 @@
 ## Description:
-Instant XP Gain is a mod designed for both performance and convenience. It removes the generation of XP orbs during gameplay and directly grants XP to players, eliminating the need to collect orbs manually. By bypassing XP orb creation, this mod not only optimizes game performance by reducing entity load but also simplifies gameplay by removing the hassle of retrieving scattered XP.
+Instant XP Gain is a mod designed for both performance and convenience. It removes the spawning of XP orbs during gameplay and directly grants XP to players, eliminating the need to collect orbs manually. By bypassing XP orb creation, this mod not only optimizes game performance by reducing entity load but also simplifies gameplay by removing the hassle of retrieving scattered XP.
 
 Why is this mod larger in size than similar ones?
 
-This mod is larger because it considers every single game mechanic responsible for XP generation, making it far more optimized than similar alternatives that often rely on tick-based updates or a single centralized system that requires constant recalculation, ultimately reducing efficiency.
+This mod is larger because it considers every single game mechanic responsible for XP generation, making it significantly more optimized than similar alternatives that often rely on tick-based updates or a single centralized system that requires constant recalculation, ultimately reducing efficiency.
 
 Key features:
 
@@ -19,7 +19,7 @@ Key features:
 
 Whether you're playing in a singleplayer world or managing your server, Instant XP Gain helps streamline gameplay while maintaining balance, fairness, and improving performance.
 
-This mod has full compatibility with most mods that introduce new mechanics reguarding XP or alter existing ones.
+This mod has full compatibility with most mods that introduce new mechanics regarding XP or alter existing ones.
 
 I will soon release this mod for additional Minecraft versions and make it client-side too. To stay up to date for future updates and releases, consider following this mod!
 
