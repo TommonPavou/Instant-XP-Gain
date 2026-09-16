@@ -7,7 +7,7 @@ This mod is larger because it considers every single game mechanic responsible f
 
 Key features:
 
-  - Instantly grants XP to the player from every source of the game!
+  - Instantly grants XP to the player from every source of the game.
 
   - Helps optimize server and client performance.
 
